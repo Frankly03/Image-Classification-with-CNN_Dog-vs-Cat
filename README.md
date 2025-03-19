@@ -40,6 +40,14 @@ Custom CNN Model Accuracy: **94%**
 ResNet18 Model Accuracy: **97%**
 
 
-## Visualizations
+# Visualizations
 
-![Loss Curve of Custom model](images/Loss Curve of Custom CNN Model.png)
+## Loss Curve and Accuracy Curve plot of Custom Model
+![Loss Curve of Custom model](images/customModel.png)
+
+## Loss Curve and Accuracy Curve plot of Resnet18 model
+![Loss Curve of Resnet18 model](images/Resnet18.png)
+
+## Prediction on Resnet18 Model
+![Prediction using Resnet18 model](images/prediction.png)
+
