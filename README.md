@@ -29,3 +29,17 @@ This project focuses on classifying images of dogs and cats using Convolutional 
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/Image-Classification-CNN-Dog-vs-Cat.git
+
+
+2. Run the Jupyter Notebook or Python script to train and evaluate the models.
+
+## Results:
+
+Custom CNN Model Accuracy: **94%**
+
+ResNet18 Model Accuracy: **97%**
+
+
+## Visualizations
+
+![custom model training](images/result.png)
