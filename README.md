@@ -49,5 +49,5 @@ ResNet18 Model Accuracy: **97%**
 ![Loss Curve of Resnet18 model](images/Resnet18.png)
 
 ## Prediction on Resnet18 Model
-![Prediction using Resnet18 model](images/prediction.png)
+![Prediction using Resnet18 model](images/Prediction.png)
 
